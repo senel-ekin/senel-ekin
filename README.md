@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://media.giphy.com/media/iAci8Xp49cBwq0MM19/giphy.gif
 <!--
 **senel-ekin/senel-ekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
