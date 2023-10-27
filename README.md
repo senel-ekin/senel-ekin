@@ -1,4 +1,5 @@
-## Hi, I'm Ekin 🌟 <a><img align="left" width="240" height="189" src="https://media.giphy.com/media/99uFAJTaynOdsbin4E/giphy.gif"></a>
+## Hi, I'm Ekin 🌟 
+<a><img align="left" width="240" height="189" src="https://media.giphy.com/media/99uFAJTaynOdsbin4E/giphy.gif"></a>
 📚 Mathematics student at Hacettepe University<br>
 🚀 Artificial Intelligence Researcher Intern at Politechnika Częstochowska<br>
 ### Socials                  
