@@ -1,4 +1,4 @@
-## Hi, I'm Ekin 🦆
+# Hi, I'm Ekin 🦆
 📚 Mathematics student at Hacettepe University<br>
 🚀 Passionate about AI and game coding<br>
 <a><img align="left" width="240" height="189" src="https://media.giphy.com/media/99uFAJTaynOdsbin4E/giphy.gif"></a>
