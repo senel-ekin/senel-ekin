@@ -24,5 +24,4 @@
 <a><img src="https://raw.githubusercontent.com/senel-ekin/MyFirstGame/master/data/Baslangic.png"></a>
 
 ### My GitHub Stats ❤️‍🔥
-<a href="http://www.github.com/senel-ekin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=senel-ekin&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-<a href="http://www.github.com/senel-ekin"><img src="https://github-readme-stats.vercel.app/api?username=senel-ekin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="senel-ekin's GitHub stats" /></a>
+<a href="http://www.github.com/senel-ekin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=senel-ekin&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api?username=senel-ekin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="senel-ekin's GitHub stats" /></a>
