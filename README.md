@@ -40,3 +40,4 @@
 </table>
 
 <a href="https://github.com/senel-ekin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senel-ekin&langs_count=10&title_color=0f172a&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a><img width="103" height="120" src="https://media.giphy.com/media/BUXYuezYNLQleVoEJa/giphy.gif"></a>
