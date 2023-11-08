@@ -27,6 +27,12 @@
 <table>
     <tr>
         <td colspan="2" rowspan="2">
+            <a href = "https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=senel-ekin&theme=shadow-red">
+            </a>
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
         <img src="https://github-readme-stats.vercel.app/api?username=senel-ekin&theme=date_night&show_icons=true">
         </a>
         </td>
