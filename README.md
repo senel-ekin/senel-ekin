@@ -18,21 +18,4 @@
 </picture>
 </a></p>
 
-### My GitHub Stats ❤️‍🔥
-<table>
-    <tr>
-        <td colspan="2" rowspan="2">
-            <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=senel-ekin&theme=shadow-red">
-            </a>
-        </a>
-        </td>
-        <td colspan="2" rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api?username=senel-ekin&theme=date_night&show_icons=true">
-        </a>
-        </td>
-    </tr>
-</table>
-
-<a href="https://github.com/senel-ekin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senel-ekin&langs_count=10&title_color=0f172a&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a><img width="103" height="120" src="https://media.giphy.com/media/BUXYuezYNLQleVoEJa/giphy.gif"></a>
