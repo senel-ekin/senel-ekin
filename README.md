@@ -18,9 +18,6 @@
 </picture>
 </a></p>
 
-### My Game 🩷
-<a><img src="https://raw.githubusercontent.com/senel-ekin/MyFirstGame/master/data/Baslangic.png"></a>
-
 ### My GitHub Stats ❤️‍🔥
 <table>
     <tr>
